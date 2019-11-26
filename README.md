@@ -24,6 +24,10 @@ Most of the implementation is almost the same as the [implementation of DQN](htt
 
 You can see detailed explanation posting at ~[HERE]()~ (I am working on this yet :smile:)
 
+## Model Structure
+
+![nn.svg](/assets/nn.svg)
+
 ## Requirements
 
 Refer `requirements.txt` or `Pipfile`. You can set your virtual environment by `virtualenv`(*recommended*) or `pipenv`. 
