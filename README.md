@@ -4,7 +4,7 @@
 
 This repository implements the paper: **[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)**.
 
-The authors of the paper applied [Double Q-learning](https://papers.nips.cc/paper/3964-double-q-learning)concept on their DQN algorithm. This paper proposed Double DQN, which is similar to DQN but more robust to overestimation of Q-values.
+The authors of the paper applied [Double Q-learning](https://papers.nips.cc/paper/3964-double-q-learning) concept on their DQN algorithm. This paper proposed Double DQN, which is similar to DQN but more robust to overestimation of Q-values.
 
 The major difference between those two algorithms is the way to calculate Q-value from target network. Compared to the DQN, directly using Q-value from target network, DDQN chooses an action that maximizes the Q-value of main network at the next state.
 
