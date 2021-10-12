@@ -47,7 +47,7 @@ nbformat==4.4.0
 networkx==2.3
 notebook==6.4.1
 numpy==1.17.3
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 opt-einsum==3.1.0
 packaging==19.2
 pandocfilters==1.4.2
