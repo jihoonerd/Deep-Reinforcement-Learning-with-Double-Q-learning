@@ -46,7 +46,7 @@ nbconvert==5.6.0
 nbformat==4.4.0
 networkx==2.3
 notebook==6.4.12
-numpy==1.21.0
+numpy==1.22.0
 opencv-python==4.2.0.32
 opt-einsum==3.1.0
 packaging==19.2
