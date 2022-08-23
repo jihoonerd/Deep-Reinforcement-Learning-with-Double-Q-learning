@@ -42,7 +42,7 @@ matplotlib==3.1.1
 mccabe==0.6.1
 mistune==2.0.3
 more-itertools==7.2.0
-nbconvert==6.3.0
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.3
 notebook==6.4.12
